@@ -1,14 +1,4 @@
-# Contexto: Lojas de pequeno e médio porte muitas vezes iniciam seus sistemas de
-# controle de estoque usando planilhas ou sistemas simples baseados em scripts. Um
-# sistema básico que permita cadastrar produtos, atualizar o estoque e realizar buscas por
-# nome pode ser o primeiro passo para digitalizar e organizar esse processo.
-# Desafio: Você foi convidado por um comerciante local para desenvolver um sistema
-# simples de cadastro de produtos utilizando Python. O sistema deve permitir adicionar
-# produtos a uma lista, buscar produtos pelo nome, atualizar a quantidade em estoque e
-# exibir a lista completa de produtos. A proposta é que todas as operações sejam
-# realizadas usando funções e estruturas básicas, como listas e dicionários.
-# As ações necessárias serão: Adicionar produto, buscar produto, listar produto e atualizar
-# estoque.
+# Samuel Henrique Dias Mioni - Nº24 - 2ºB
 
 def adicionar_produto(produtos, nome, preco, quantidade):
     produto = {
